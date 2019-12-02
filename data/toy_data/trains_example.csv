@@ -1,0 +1,11 @@
+name,number,engine_type,colour,wheels,top_speed_mph,weight_tons,size
+Thomas,1,Tank,Blue,6,40,52.0,Medium
+Edward,2,Tender,Blue,14,70,41.0,Small
+Henry,3,Tender,Green,18,90,72.2,Big
+Gordon,4,Tender,Blue,18,100,91.35,Big
+James,5,Tender,Red,14,70,46.0,Medium
+Percy,6,Tank,Green,4,40,22.85,Small
+Toby,7,Tank,Brown,6,20,27.0,Small
+Emily,12,Tender,Green,8,85,45.0,Small
+Rosie,37,Tank,Purple,6,65,37.0,Small
+Hiro,51,Tender,Black,20,55,76.8,Big
