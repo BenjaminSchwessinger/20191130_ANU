@@ -1,0 +1,16 @@
+#this is a bit of a hint file on how to sort the blast file on the per_id field first and then take only the species column to count 
+#the number of species that were hit 
+grep '#' 20200424_coackroach.ntblast.short.tab
+grep -v '#' 20200424_coackroach.ntblast.short.tab | head
+grep -v '#' 20200424_coackroach.ntblast.short.tab | tail
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2n | head
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | head
+#on the command line the deliminter tab can be entered when first using ctrl+v followed by tab
+#you will need to replace the "\t" below with this shortcut when executing the code
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | cut -d '\t' -f 3 | sort
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | cut -d '\t' -f 3 | sort | head
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | cut -d '\t' -f 3 | sort | uniq
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | cut -d '\t' -f 3 | sort | uniq | head
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | cut -d '\t' -f 3 | sort | uniq -c 
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | cut -d '\t' -f 3 | sort | uniq -c | sort
+grep -v '#' 20200424_coackroach.ntblast.short.tab | sort -k2,2nr | cut -d '\t' -f 3 | sort | uniq -c | sort -k1,1r | head

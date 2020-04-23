@@ -1,0 +1,620 @@
+#read_id	perc_id	species	kingdom
+002c8c71-9306-47c3-8f46-885ae341bf3a	78.261	Thamnophis sirtalis	Eukaryota
+003ab2cb-b41d-453c-820b-0429a9a8e1f1	88.235	Macropanesthia mutica	Eukaryota
+0040cdd7-5f38-4091-8d5e-cfd1b5632df4	74.836	Diploptera punctata	Eukaryota
+00a96135-b8fa-4b7e-9bb7-81afd3261958	87.234	Egle steini	Eukaryota
+01bafd4c-2dbb-4549-8f2b-a7484937dce2	75.758	Diploptera punctata	Eukaryota
+01e43899-ab26-4c99-9408-79492dd55670	85.435	Serratia quinivorans	Bacteria
+020f32f7-1742-4e7e-a06a-43cc7f4d0b59	93.182	Nasutitermes longinasus	Eukaryota
+0270059a-892f-4661-81a8-3f8107f02bff	73.882	Diploptera punctata	Eukaryota
+027e0413-4503-4c77-894e-acfe65f14918	100.000	Oryzias latipes	Eukaryota
+032da2f7-0ddf-490e-a82e-2e2419c085d4	84.337	Zootermopsis nevadensis	Eukaryota
+049a8afe-2433-49f6-a1a5-8206bb549457	73.548	Diploptera punctata	Eukaryota
+058d8059-1914-48cc-b369-67dd25b554aa	89.855	Blattabacterium cuenoti BPAA	Bacteria
+05b6a5df-c912-49ce-bc5c-41cb6b751b68	95.312	Panesthia cribrata	Eukaryota
+06375699-9894-43fc-bf17-3351f7b4674e	86.821	Centruroides sculpturatus	Eukaryota
+0649e15b-dd4f-4fc9-8c52-7ee765fc63dd	73.728	Blaptica dubia	Eukaryota
+064d68f3-956d-4dd0-9fc3-422e0c9a301b	86.542	Panesthia cribrata	Eukaryota
+066da9d6-99cb-4f36-86e1-33ce854cc93c	100.000	Plasmodium sp. gorilla clade G2	Eukaryota
+06b1868d-f83f-4beb-ab47-a3a020f501f7	81.818	Manticora tibialis	Eukaryota
+06d569bc-a92f-454e-b71a-614488dc9f19	81.176	Deronectes persicus	Eukaryota
+06fb556e-3508-466a-860d-b19c0c92f629	94.872	Periplaneta americana	Eukaryota
+076f0c9f-bd08-4591-abf9-6eff571690fc	84.444	Cecidomyiidae sp. BOLD:ACI5256	Eukaryota
+07a0f960-fc65-4b4e-8768-439fa5d1f989	97.143	Denticeps clupeoides	Eukaryota
+07b03785-45c5-4164-b6e6-40159f4f440e	78.571	Macromia daimoji	Eukaryota
+07d2307d-bf0d-45ea-8005-f7ec9d851177	87.000	Xylobanus sp. UPOL A00094	Eukaryota
+08155a87-f763-442e-86bc-e65c49405fee	76.316	Diploptera punctata	Eukaryota
+084e29f7-6bf5-4d0c-88be-6a2c2119c266	86.538	Vigna angularis var. angularis	Eukaryota
+09637931-6bd3-4c8f-b1b6-b980a87fbf14	87.912	Caluromys philander	Eukaryota
+09d6c6db-dc6f-46a4-a1a5-809ac443d074	73.401	Diploptera punctata	Eukaryota
+0a0a2f38-2a45-49a1-831d-f27fa7a4b1dc	73.150	Diploptera punctata	Eukaryota
+0a495d38-2f5c-4b48-b9a0-c3220bc9c086	77.049	Solenopsis invicta	Eukaryota
+0a8621ec-3b02-486c-af05-5544ba4da7be	92.857	Rattus norvegicus	Eukaryota
+0a9f99cb-681f-496b-8e40-95c40d5d3bcc	83.182	Zootermopsis nevadensis	Eukaryota
+0b346453-e183-4417-acba-11f011c41412	75.157	Diploptera punctata	Eukaryota
+0ba1b543-9a62-4c26-a59a-f0ae81cc33c2	75.543	Aedes albopictus	Eukaryota
+0c20fa1a-9ac3-4343-ab53-6513fda63693	91.463	Blattella germanica	Eukaryota
+0c29b844-db94-4eec-a0bd-9cf377440a7a	90.769	Zootermopsis nevadensis	Eukaryota
+0c9ff547-b402-44a8-a687-61521281c843	88.000	Trachymyrmex zeteki	Eukaryota
+0d5172ce-b4d0-4ab5-8da2-907d5dbad90a	83.282	Blattabacterium cuenoti BPAY	Bacteria
+0df09129-abd0-4e08-8a31-ee43203b9884	83.721	Centruroides sculpturatus	Eukaryota
+0e4e6142-9fd7-44b3-b838-88e5afa7252f	90.278	Plutella xylostella	Eukaryota
+0e645710-38f8-4f0e-ae8c-b158f3a2e0d2	71.658	Dermatobia hominis	Eukaryota
+0e979939-7622-440b-9c64-13515553c969	83.718	Centruroides sculpturatus	Eukaryota
+0ef73051-a63f-439e-8d7a-a53fe9605caa	100.000	Larimichthys crocea	Eukaryota
+0f72577e-d876-49e1-a50c-23d0975565d1	79.994	Bacillus wiedmannii bv. thuringiensis	Bacteria
+0f760081-1016-4809-bc34-2d20cc16efb3	84.348	Diploptera punctata	Eukaryota
+0f94830a-694a-4544-be44-5a85fa11fef8	85.013	Panesthia cribrata	Eukaryota
+0fb0378c-8f1d-45cf-a7b0-a15468770a65	89.552	Panesthia sp. QPa1	Eukaryota
+103ab3c0-9bdd-48b3-8cd0-c95419735c86	89.071	Blattabacterium cuenoti BPAY	Bacteria
+103ec554-eb8d-4e76-b9cf-cc4eb0a505d0	88.000	Vitis vinifera	Eukaryota
+10e32c92-d4b0-49d4-b09d-ee11ebc52b1e	75.801	Diploptera punctata	Eukaryota
+111ec685-b14a-4c9b-870b-12acf5e19d2a	88.000	Lupinus angustifolius	Eukaryota
+111f77aa-4c00-463d-b2e1-b3ce9759bb79	74.747	Diploptera punctata	Eukaryota
+1128c63d-32a8-467d-93ac-77d14a03a411	74.065	Diploptera punctata	Eukaryota
+116fd1d5-dbee-4e40-b396-2d14d74bc9ad	100.000	Cyprinus carpio	Eukaryota
+122d04b6-9ea8-4495-9e6a-f6cfa5e8314f	87.395	Panesthia australis	Eukaryota
+1339e99d-f6f7-4edf-87e7-cbc5c7b0324b	74.864	Diploptera punctata	Eukaryota
+13ee252c-732e-4bf2-9710-dc51886dcd97	100.000	Brassica oleracea	Eukaryota
+14003d35-c80c-4d52-b590-85f4c1538ae9	100.000	Danio rerio	Eukaryota
+143c1d67-58e2-4b8c-b629-425f14fde00a	94.737	Acinetobacter baumannii	Bacteria
+144b8233-ffbe-430f-9ac4-4c72cf197f1d	83.333	Cecidomyiidae sp. BIOUG20087-A03	Eukaryota
+149e85fd-9aa8-4cbf-99eb-047d45630295	79.944	Centruroides sculpturatus	Eukaryota
+150ff3e8-4230-49c1-9204-6c29860052b2	91.304	Zootermopsis nevadensis	Eukaryota
+16d05cf4-5312-4d74-839c-1fda5c5896a5	100.000	Cryptotermes secundus	Eukaryota
+16d111c7-f7da-4905-9b53-ca43814071ce	74.713	Diploptera punctata	Eukaryota
+16ff75af-d6bf-41b8-9d74-6247df99e92f	73.298	Diploptera punctata	Eukaryota
+17245a54-9d2c-4522-88c3-f162c3a5e3fb	94.737	Cryptotermes secundus	Eukaryota
+1759416f-5c2e-470c-b951-5f4c6b2173a1	89.796	Panesthia sp. 2 FL-2017	Eukaryota
+17705671-73b8-4480-9e8d-ac4eab559b82	84.293	Blattella bisignata	Eukaryota
+17b0762b-5417-4bbe-9971-2c060ff509c4	84.058	Tyrrhenoleuctra sp. TYCO-01	Eukaryota
+17e12a9d-c3ca-49aa-bc7c-8255a93a0e4f	92.135	Panesthia matthewsi	Eukaryota
+18213f72-aeab-4ab0-bf12-bfe97cebec73	80.665	Gromphadorhina laevigata	Eukaryota
+1874ee03-63ba-4195-a43a-769496c6fa38	74.830	Arabidopsis thaliana	Eukaryota
+190854a2-954a-4e17-8422-762ff84e9bae	93.182	Pieris rapae	Eukaryota
+19206628-925a-4d53-9d75-15ebbfa92c10	77.358	Diploptera punctata	Eukaryota
+194d8d2b-53d4-4d19-ada2-9d9f0a8d820a	83.781	Blattabacterium cuenoti BPAA	Bacteria
+1a3ccd52-db20-4aab-91c5-1b4ec909b22c	100.000	Danio rerio	Eukaryota
+1a7f0307-992d-4fd0-ab6a-a4c496f700bd	83.283	Gromphadorhina laevigata	Eukaryota
+1ab9e8c3-d682-4b83-a090-b88954a16c15	100.000	Anabas testudineus	Eukaryota
+1ca69e98-39ca-4bde-9f02-5c49f23f3444	83.082	Centruroides sculpturatus	Eukaryota
+1d073591-0295-4db0-814a-a39c23458e67	76.476	Anopheles guarani	Eukaryota
+1d5c6ba6-2c1b-4871-9985-86185c16b408	87.919	Panesthia cribrata	Eukaryota
+1d8ba19b-bf0a-4077-84f4-937c8d68789b	74.526	Opisthoplatia orientalis	Eukaryota
+1e580a31-f886-463d-a9ce-6080d8b33f83	90.164	Zootermopsis nevadensis	Eukaryota
+1f696e4a-ba86-4cc7-9e42-c076c36de7fa	72.636	Zootermopsis nevadensis	Eukaryota
+1f8490c6-ddbf-4a36-b1aa-09208adfbeea	80.791	Cryptotermes secundus	Eukaryota
+1fbe24a6-5e45-4a55-a3f6-76055a266f7c	73.394	Opisthoplatia orientalis	Eukaryota
+2006659e-8175-4ed9-b897-5d78fb9155b5	88.235	Panesthia saussurii	Eukaryota
+202a9c5c-f6b8-4ced-a203-41b5cd36e9ab	88.764	Panesthia cribrata	Eukaryota
+2134b7ee-075c-4e98-af85-a048eeee5d78	75.800	Diploptera punctata	Eukaryota
+223a303e-92b6-4824-8ced-c73f6561f740	100.000	Diaphorina citri	Eukaryota
+2257227b-9fe5-4514-967a-c35d5416b8b0	76.602	Bacillus atticus	Eukaryota
+22761de0-b8d0-466b-acc5-293941373e1c	83.929	Zootermopsis nevadensis	Eukaryota
+228364a4-f222-48d0-977e-1e077f53bca4	100.000	Cryptotermes secundus	Eukaryota
+228dc4aa-932e-4edd-ae05-a41731175d5d	93.333	Panesthia lata	Eukaryota
+228fcc84-98f6-41ea-8e6d-d3d53d5fff73	74.186	Diploptera punctata	Eukaryota
+22c3a5e5-1aed-4f2d-8232-67785189eb1e	100.000	Danio rerio	Eukaryota
+23446984-fb24-4b82-a046-233ededf9835	100.000	Rhopalosiphum maidis	Eukaryota
+23b7b604-af12-45b1-931f-16801daf0344	80.156	Diploptera punctata	Eukaryota
+23d0243e-f7d3-4a9b-b892-fb37f0ad407e	89.855	Phacochoerus africanus	Eukaryota
+24090b62-c2a9-4795-b6bc-557689c90b1a	80.556	Diploptera punctata	Eukaryota
+24616c39-91d4-4262-b597-8851a59ad598	78.846	Onthophagus taurus	Eukaryota
+24ffd307-3b8b-495b-af8d-3d4b14ac21f1	94.872	Danio rerio	Eukaryota
+254113b2-6a2f-404b-9c2e-4f4a6e30e78e	83.436	Cryptotermes secundus	Eukaryota
+256d8415-a56b-4b3d-898c-c494ed921507	96.970	Melanaphis sacchari	Eukaryota
+25e78c9b-3206-431c-954b-dc0b5b39c1a8	78.800	Diploptera punctata	Eukaryota
+2618bc51-376a-405d-890c-ce793ad31ecc	81.564	Diploptera punctata	Eukaryota
+2637e4ba-a0e8-4b3a-9a82-a8b00b7c555a	87.281	Nauphoeta cinerea	Eukaryota
+26acb3c2-a858-4a52-bb42-ed5b14491c4b	92.703	Panesthia cribrata	Eukaryota
+26c299b8-11be-4255-8f5d-12955eade2d4	95.082	Panesthia cribrata	Eukaryota
+27616c13-69eb-4663-8a94-86cb4f4e471f	72.860	Contacyphon sp. BT0012	Eukaryota
+276e3e6e-85a4-4920-b4a8-ec640d4a663e	87.313	Panesthia cribrata	Eukaryota
+27b4fbf3-c919-4f3e-9b6d-58c955e241a3	100.000	Zootermopsis nevadensis	Eukaryota
+27cbdccd-1b34-4dc6-ab38-e95130c061f9	100.000	Brassica rapa	Eukaryota
+2873464f-3bb4-41f2-a8e5-ed6adfa50f60	100.000	Strongyloides stercoralis	Eukaryota
+28fdf999-9e41-4d22-95c1-459f1d8bd52a	76.629	Diploptera punctata	Eukaryota
+2913076d-93b9-4b6c-b223-3d0075411e44	89.286	Cryptocercus meridianus	Eukaryota
+29e1f9b4-a737-404c-85ba-97c923e832af	75.377	Diploptera punctata	Eukaryota
+2a3dabd6-acf6-4271-825f-834e73fb13d5	97.143	Vigna angularis var. angularis	Eukaryota
+2af7e10f-f37a-4ba0-8a71-e29a641f9c1c	92.593	Bitoma sp. CSR061	Eukaryota
+2c6bf78e-1f74-4d66-aa21-f076c14372ff	78.378	Panchlora nivea	Eukaryota
+2d3f6911-b136-41aa-99df-110400b15ffd	79.405	Gromphadorhina laevigata	Eukaryota
+2d818931-ef91-49b7-90de-71283dbb08cf	78.689	Ipomoea triloba	Eukaryota
+2e219af3-fff7-4fe7-b130-53fdc1b9f89e	91.150	Panesthia angustipennis cognata	Eukaryota
+2e351bff-4515-4dea-afbb-bf8f95ff3b50	86.429	Panesthia cribrata	Eukaryota
+2ef8b749-01f0-4aba-8990-97fbcc2884b5	76.346	Opisthoplatia orientalis	Eukaryota
+2f5073bc-2de1-4cf9-80a7-1d8aef9d657b	100.000	Cyprinus carpio	Eukaryota
+2f549364-03f2-493f-bb22-d145fe794c3f	100.000	Cryptotermes secundus	Eukaryota
+2f82742c-c6c1-4cd3-8b9e-324b4ab5b6a8	97.368	Cryptotermes secundus	Eukaryota
+2fabff95-b1de-41f9-8cc9-90e740c70890	89.844	Cryptotermes secundus	Eukaryota
+305f1a1d-0f9c-40cc-b3e6-07162479131c	77.246	Diploptera punctata	Eukaryota
+307ad6f7-2d96-4bb6-8e00-19cac75baa41	73.810	Diploptera punctata	Eukaryota
+30c18f98-f41e-4815-874b-c01d68c92697	76.506	Diploptera punctata	Eukaryota
+30ecfa89-b932-4c1e-af42-50a7553690cf	78.919	Cryptocephalus vittatus	Eukaryota
+30f06545-2b24-47db-991a-aa682e33239b	76.562	Cryptotermes secundus	Eukaryota
+312b67f9-df81-489f-80c1-b0f3286b18fb	90.381	Centruroides sculpturatus	Eukaryota
+3149297a-355c-43f3-a55f-0217f44a385b	75.446	Diploptera punctata	Eukaryota
+3177daab-c398-4695-9db6-e677c3bd554a	91.304	Cryptotermes secundus	Eukaryota
+318f9fcb-5858-4675-a05d-0dbc96411762	83.582	Danio rerio	Eukaryota
+31c5ba74-353f-4647-807f-005c8e37c577	86.135	Blattabacterium cuenoti BPAY	Bacteria
+32536f17-6123-4708-a865-265e85897bf7	77.846	Diploptera punctata	Eukaryota
+32b6af47-99bd-4c3a-89bb-15192ca4bdce	100.000	Betta splendens	Eukaryota
+33393738-3e87-4845-9169-8176fdd7c2c1	83.664	Centruroides sculpturatus	Eukaryota
+34227c15-3fa9-4be4-8233-4a78f51a87b1	88.160	Centruroides sculpturatus	Eukaryota
+352129b8-85f4-4b95-a8ad-d89ee3257cc7	81.522	Bittacomorphella fenderiana	Eukaryota
+35746b1c-cef0-423c-945b-9ad5d870eb11	74.729	Zootermopsis nevadensis	Eukaryota
+3619d399-1e2f-449e-a4db-4e09a9794ae2	91.667	Cryptotermes secundus	Eukaryota
+362e1488-8883-4b88-b9a3-800ebf5beddb	80.808	Opisthoplatia orientalis	Eukaryota
+36ff02ea-2a97-40b8-a8ef-7cde47854f07	73.684	Diploptera punctata	Eukaryota
+370a0e61-d4b0-4a66-8847-a2bb4906b293	86.784	Panesthia australis	Eukaryota
+37200578-c77b-4df8-be74-1e7a48074d50	75.071	Diploptera punctata	Eukaryota
+379bb8c8-816a-4bf2-8efb-99e5a42016f8	86.937	Parasteatoda tepidariorum	Eukaryota
+37cf3b9b-aad1-489c-b691-efb0c78f4b56	87.817	Panesthia sp. 1 DJGI-2006	Eukaryota
+38390cd2-08b1-4675-aabc-a5d2578a8357	87.143	Atrijuglans hetaohei	Eukaryota
+389b5f90-dd59-40f8-b82c-a9b4ef3be617	80.357	Zootermopsis nevadensis	Eukaryota
+38b82b70-4baf-4e45-8a9d-cf1a243f1843	86.702	Ancaudellia shawi	Eukaryota
+38f4b804-f444-43e5-8e35-5099a5730a19	86.458	Cryptotermes secundus	Eukaryota
+399cb48b-3087-40ed-a451-8f993e3d98c3	81.720	Cryptotermes secundus	Eukaryota
+39c4b2d9-e15c-4e12-a8e3-2e2677197117	96.970	Frankliniella occidentalis	Eukaryota
+39d9c950-a569-44c7-b77f-4782c2cddfe9	73.469	Diploptera punctata	Eukaryota
+3a3c8255-5e01-4f08-a293-90e59783706c	78.025	Zootermopsis nevadensis	Eukaryota
+3b4fac1a-15e5-441d-bac4-c6d2857b30b5	73.077	Megathymus cofaqui cofaqui	Eukaryota
+3b96a8b1-119f-455b-b97a-a4ba9cb97744	94.872	Plasmodium sp. gorilla clade G1	Eukaryota
+3c39d6bc-9849-4e54-9d4b-6e3ebfebb61a	96.078	Scaptomyza frustulifera	Eukaryota
+3c3c75ef-856f-4a80-9a64-9584d2327717	100.000	Gouania willdenowi	Eukaryota
+3c4f3390-1bd6-4402-b312-8e2e9783d4a1	95.000	Solanum pennellii	Eukaryota
+3c5426fc-67cd-4804-880d-bc715de596d6	90.476	Narosa nigrisigna	Eukaryota
+3c813e07-e46f-46d2-8c81-50f25a4b696f	78.367	Diploptera punctata	Eukaryota
+3d1146e3-5dca-4ded-a835-2b848fd275e9	79.954	Cryptotermes secundus	Eukaryota
+3d16fa87-5ef8-4752-bec8-68f850021cbc	81.553	Reticulitermes lucifugus lucifugus	Eukaryota
+3d4c3a9a-454d-40b3-bf02-17ec21108cee	97.826	Zootermopsis nevadensis	Eukaryota
+3ddd1f7f-e4ad-4d8f-870f-9da9b482ad15	94.118	Diploptera punctata	Eukaryota
+3e912c8f-e62b-48e9-b250-d08896b23de5	100.000	Cryptotermes secundus	Eukaryota
+3f2314eb-2f7c-4f5e-b78c-e7a7e42f66a2	87.302	Rhabdoblatta atra	Eukaryota
+4001387d-0e7a-49b2-9d70-04969bf37bdb	78.635	Gromphadorhina laevigata	Eukaryota
+40076335-120d-42a0-9789-ecbf6f03616f	81.395	Centruroides sculpturatus	Eukaryota
+402298bf-5288-4a48-b575-e2a68257eead	73.624	Diploptera punctata	Eukaryota
+403a28be-6b39-4c9a-b4c0-c3dd0f8de930	72.659	Opisthoplatia orientalis	Eukaryota
+4079ab67-5982-4728-be2f-8027c6424dcc	84.946	Zootermopsis nevadensis	Eukaryota
+410a1011-c29f-4d4c-ad82-ecab9917ac26	78.151	Athalia rosae	Eukaryota
+41e4b0c2-2116-4f25-9fe2-d1b33e3d184c	80.835	Blattella germanica	Eukaryota
+4211e15c-f742-4dfc-ac85-e8edb3c6b872	87.931	Panchlora viridis	Eukaryota
+42434d5e-e64e-46b7-b5ff-eeae0cf3daff	100.000	Cryptotermes secundus	Eukaryota
+42f1fdfe-1bae-4c68-85ba-2b923c742cfd	73.720	Diploptera punctata	Eukaryota
+4303dcc9-2a18-4cc0-a389-e126c7e20600	93.182	Numida meleagris	Eukaryota
+434888a8-70f5-4042-a4e3-d34f4006c2a9	100.000	Plasmodium sp. gorilla clade G2	Eukaryota
+434a1434-f28e-422d-81cd-e81129b2cee4	79.412	Diploptera punctata	Eukaryota
+43624883-7d7c-4f38-ab63-b185ee5abb4b	89.256	Panesthia australis	Eukaryota
+436d07a7-6fb6-4fe7-b9d9-c88dd21de6ca	97.059	Aedes aegypti	Eukaryota
+438c75bd-ac93-4ce1-90e9-ec408f35ea87	76.157	Diploptera punctata	Eukaryota
+43efd610-93c0-4918-8c29-57923dfef8cf	74.057	Opisthoplatia orientalis	Eukaryota
+445e8ebe-7d64-4d0a-adee-c16ee26aa04b	97.059	Euroleon nostras	Eukaryota
+44f254db-6544-4da9-9771-7acde49a5bf9	80.916	Reticulitermes lucifugus lucifugus	Eukaryota
+465f6b87-329c-47cc-9f0d-79ca63450b2b	94.872	Gouania willdenowi	Eukaryota
+4669e4c5-0e23-4e08-a2ae-630bb111671c	100.000	Cryptotermes secundus	Eukaryota
+468fd168-19d8-4fb7-a340-8e2f2ec7882e	90.000	Dermatophagoides pteronyssinus	Eukaryota
+46a82ca5-1e4b-40aa-9570-aa848c24c319	73.750	Diploptera punctata	Eukaryota
+48dd2721-a51a-433d-a891-aeab9015b43a	94.872	Amyelois transitella	Eukaryota
+49272634-c911-41e5-b2c5-9ac53be6db6a	79.866	Drosophila tsigana	Eukaryota
+49602ce9-b105-4330-90f4-a377eb70166e	85.853	Panesthia cribrata	Eukaryota
+49871994-5cf0-49dd-91cc-174489281437	77.341	Diploptera punctata	Eukaryota
+4b0319ea-0f38-489f-8b8b-0dbee74b0c9f	83.898	Panesthia australis	Eukaryota
+4b068f1e-4601-4a04-a11c-97dc31999c0f	100.000	eukaryotic synthetic construct	N/A
+4b458c62-32e5-4b5f-808b-e5e75681b926	100.000	Denticeps clupeoides	Eukaryota
+4b69583a-a6a4-494c-9390-a033215d0525	94.737	Solanum pennellii	Eukaryota
+4c5d08e3-4fc2-4e76-9fd2-47c6c3d5589d	81.148	Diploptera punctata	Eukaryota
+4c87436d-ddc2-4751-a12d-6d126ffd47e6	77.273	Jaculus jaculus	Eukaryota
+4ca72347-96af-46ba-836e-28351b561648	80.159	Diploptera punctata	Eukaryota
+4d4ebc88-c8ee-44cd-b2c3-23175ba27e4a	100.000	Cryptotermes secundus	Eukaryota
+4dd208a1-a61c-47b2-a1ad-78527e8069ea	82.946	Zootermopsis nevadensis	Eukaryota
+4e7b41b3-2f49-4578-b374-a9c37779193b	88.119	Blackburnia posticata	Eukaryota
+4e9dc8b6-b8e9-4dc9-8f7e-308f9711457f	100.000	Mus musculus	Eukaryota
+4ee016d7-facf-464a-90e4-86b1262f8503	86.813	Tyrannophasma gladiator	Eukaryota
+4f0bed5c-ed78-46a7-98d2-a05cb416a19e	100.000	Mus musculus	Eukaryota
+4f5bdc76-d2f8-4878-aad8-8a9b23f7605a	78.094	Opisthoplatia orientalis	Eukaryota
+4fc4d020-94f2-41b4-8c2c-4f708b4b38f9	86.642	Panesthia cribrata	Eukaryota
+4fd19078-591e-4b7e-9c19-88d41d4a931b	90.909	Bemisia tabaci	Eukaryota
+51079ba8-ff49-4dfd-b552-c87ee52c2874	88.235	Anisosticta novemdecimpunctata	Eukaryota
+516a2bfd-4302-49e9-8dcc-9113d12b2388	85.279	Centruroides sculpturatus	Eukaryota
+517740d9-87a0-4224-853f-7cba1003087b	87.838	Parapanesthia pearsoni	Eukaryota
+52c3e8c4-437d-4a00-9eb8-9325f0389046	78.462	Reticulitermes lucifugus lucifugus	Eukaryota
+5382ac02-5ecd-4c84-ba99-f544d1948820	84.690	Centruroides sculpturatus	Eukaryota
+539d95cf-d590-4e20-904b-213849d366e9	79.832	Trachymyrmex septentrionalis	Eukaryota
+53d39f56-289b-4914-b0fe-af8b30e4ca80	84.404	Cryptocercus meridianus	Eukaryota
+5472775b-5611-48fb-ab12-037ee036ebad	97.059	Homo sapiens	Eukaryota
+54862e12-f36b-41df-9105-e71ceaafc20b	76.222	Diploptera punctata	Eukaryota
+5496e220-1366-4031-abb9-f4ccf9d3ef3d	91.045	Opisthoplatia orientalis	Eukaryota
+55260638-54b2-4e38-8299-636abd7a822d	73.684	Diploptera punctata	Eukaryota
+55ce4f72-7b7e-46a0-86da-2393db51fba7	78.698	Cymbiodyta marginella	Eukaryota
+55d28029-99b2-4fe2-8576-6c022605bac4	95.455	Cicindela (Rivacindela) sp. JP-289	Eukaryota
+57448a47-e65a-4c0b-8640-8e14a549152a	100.000	Plasmodium berghei	Eukaryota
+579f209c-16a8-4bc6-8797-9ee1a08e5c44	100.000	Plasmodium falciparum 3D7	Eukaryota
+57a2445b-1861-491a-9b46-e64b7d540d18	86.885	Panesthia cribrata	Eukaryota
+57a8f6dd-3c27-4a0e-96a1-a71df20498ce	82.787	Opisthoplatia orientalis	Eukaryota
+5843a774-b15e-468e-86a2-bec26ebeb56d	72.464	Diploptera punctata	Eukaryota
+584a182e-3ae6-447d-b091-f588c4da8daa	89.583	Brassica oleracea	Eukaryota
+58629ddb-3cc4-454a-91b6-8b77479026cb	80.000	Diploptera punctata	Eukaryota
+58d0a402-d2b5-4abd-9a80-4da65cdc26dc	97.297	Danio rerio	Eukaryota
+592104c5-6a94-474e-a78c-79481acbabb9	83.916	Pycnoscelus surinamensis	Eukaryota
+59d2a904-5d5a-4322-ab55-1a277c4cc7e3	91.566	Panesthia cribrata	Eukaryota
+5ac3e6f4-cebc-475b-a848-9f65004cbf8b	77.049	Diploptera punctata	Eukaryota
+5b21a678-2c2e-43fe-9856-9bcc6c033c2f	87.059	Cardiodactylus muiri	Eukaryota
+5b5d1ed0-904f-4570-9608-b03dc29685c6	93.750	Athous haemorrhoidalis	Eukaryota
+5b6b5e63-c52b-40c3-848f-b8f6e56ec666	89.279	Blattabacterium cuenoti BPAA	Bacteria
+5b948ba3-0394-41ae-8def-db99ff414bb2	75.000	Diploptera punctata	Eukaryota
+5c6e563b-8305-4b86-be88-8008dcf6afcf	84.507	Gerris thoracicus	Eukaryota
+5ca96016-163b-457f-bc48-6484d428412e	89.474	Hermetia illucens	Eukaryota
+5cbe0855-7e97-4705-9163-f444d0566fd2	97.015	Panesthia cribrata	Eukaryota
+5d139114-28bc-48c9-8633-84f61c3164ce	95.238	Anabolia bimaculata	Eukaryota
+5d8f18e3-ed51-4e9d-9a63-68e83b07b751	76.894	Diploptera punctata	Eukaryota
+5df373a0-fb80-410a-a647-11d26c9c0908	73.438	Diploptera punctata	Eukaryota
+5e2e3dc3-f659-4178-bb2e-5dfbaa1f78fa	79.652	Serratia quinivorans	Bacteria
+5e8b444f-2ee0-4eaf-914a-ec3526a24f11	87.273	Parasteatoda tepidariorum	Eukaryota
+5e9ab564-62a1-40c2-bead-9c7bd883dad7	92.831	Blattabacterium cuenoti BPAY	Bacteria
+5eac8ece-1bdf-4de8-93a5-89007c3047bc	77.511	Opisthoplatia orientalis	Eukaryota
+5ef706dd-39cf-4527-aab3-a72a1006bbe4	100.000	Panesthia cribrata	Eukaryota
+5f202b31-726e-44c4-b82a-09b34942c83d	82.437	Gromphadorhina laevigata	Eukaryota
+600c4226-5b77-422c-9231-47c2ea1220ae	78.261	Gyna capucina	Eukaryota
+607a88a6-e6c6-4512-be3a-2908df7c122e	97.500	Simulium variegatum	Eukaryota
+60b07e02-aa74-48ab-9813-62c85519a398	74.757	Diploptera punctata	Eukaryota
+60c86fcf-9f05-4100-b27f-a515d5b3b017	72.368	Diploptera punctata	Eukaryota
+60d057f3-83e2-4ec0-af27-5be5a0fb7fb0	96.721	Salganea ternatensis hirsuta	Eukaryota
+6138c4f3-a9c9-4d81-b0a2-0fe7734d0729	95.000	Cryptotermes secundus	Eukaryota
+614b0201-d6c0-4ed1-ac25-d5f238b37407	79.747	Hippocampus comes	Eukaryota
+617357a1-417f-4d44-96af-7685edda4252	100.000	Cryptotermes secundus	Eukaryota
+61cd0657-153c-4740-8d84-780bea88e9f5	79.444	Diploptera punctata	Eukaryota
+62cbf91e-65d6-4e7a-846d-e1be47fc161f	74.276	Diploptera punctata	Eukaryota
+62e34acc-23e0-4bea-bc43-29e211a8e8e4	90.909	Panesthia cribrata	Eukaryota
+6314f3fc-54dd-4792-9cc0-ae57ac749c52	74.687	Diploptera punctata	Eukaryota
+6339f1fe-4fa6-4295-86fd-e4b2ce52c670	80.174	Blattabacterium cuenoti BPAY	Bacteria
+641709a2-a130-4344-909f-a86dceea27ba	80.110	Afipia sp. GAS231	Bacteria
+64e397d9-af1a-4719-816e-bd4617dd7a20	89.796	Panesthia australis	Eukaryota
+650726e2-9ca3-4ff9-a9c1-8708b300dd88	97.222	Thaumetopoea pityocampa	Eukaryota
+6598beec-3105-4ab4-a139-5db4fd62330f	100.000	Cryptotermes secundus	Eukaryota
+65a98973-8444-4ecc-8d08-1bc6b5219191	93.023	Clostridium novyi NT	Bacteria
+65f40284-6007-4217-980c-6095d9f1b405	93.182	Leiodidae sp. BMNH 1274772	Eukaryota
+660c5123-dc88-4122-a1ad-f49aba45e447	100.000	Apteryx australis mantelli	Eukaryota
+663a924b-47a3-4a57-96ca-aeb0165ec32f	77.863	Blattella germanica	Eukaryota
+670945fc-56a0-4bab-8924-b89052c32c13	87.059	Panesthia cribrata	Eukaryota
+672cff05-0c56-4299-a278-08f6a20c7356	84.000	Panesthia cribrata	Eukaryota
+6774bc5a-c980-4a7b-a2de-8d5212101e3e	97.222	Buchnera aphidicola (Cinara splendens)	Bacteria
+68884448-8ad9-49ae-ae0d-22d03edb534e	87.619	Ooceraea biroi	Eukaryota
+69c90b89-bc6f-4e51-938e-aab58b4d0f92	71.520	Mycobacterium sp. PYR15	Bacteria
+6a05846c-f565-41c6-808c-2159aa68e0e7	85.679	Centruroides sculpturatus	Eukaryota
+6a199811-e090-4f67-8ed7-b8fe8b5e13e2	86.792	Megachile rotundata	Eukaryota
+6b0e2101-dde5-4b5d-915d-2b4276282ff6	84.259	Panesthia angustipennis	Eukaryota
+6b56cd02-1a3a-4728-95e6-9a5ed60ae52a	86.885	Cryptotermes secundus	Eukaryota
+6b6591c9-4a6d-4e36-9a01-091e8d3e197b	77.901	Diploptera punctata	Eukaryota
+6bd2cb14-5df1-4021-87a1-c25bbd46b46c	79.182	Diploptera punctata	Eukaryota
+6bf25203-3c78-4ebf-8a60-5ea2187546bd	78.808	Diploptera punctata	Eukaryota
+6c0656ef-e008-4ed4-8745-60f5a020d992	86.404	Centruroides sculpturatus	Eukaryota
+6cb66051-f697-443d-971f-a762101dc0ee	97.143	Ovis canadensis canadensis	Eukaryota
+6cc8561b-1633-42d6-8d0f-ae210bb42686	77.114	Opisthoplatia orientalis	Eukaryota
+6d2ec926-a31b-4428-ad6e-b6f63f9f7230	94.286	Strongyloides venezuelensis	Eukaryota
+6d3796d9-b9d8-470d-9d11-bb94cdea46e3	97.143	Ipomoea triloba	Eukaryota
+6d81a71b-d793-4a7d-8e91-008bea6f4eb6	73.440	Diploptera punctata	Eukaryota
+6e43e676-322c-4532-befb-492740218823	81.481	Gatzara jezoensis	Eukaryota
+6e484712-e6a9-4308-b80a-c65564a32ac0	86.885	Zootermopsis nevadensis	Eukaryota
+6f787878-fbe4-4a42-9c4b-94d16da9717c	87.500	Notothenia coriiceps	Eukaryota
+71c45f9c-8c68-4faf-8e36-aceb1059c511	94.595	Culicoides sonorensis	Eukaryota
+722cf3c4-08b6-4c3c-a4c3-9e6e194e4409	77.778	Periplaneta fuliginosa	Eukaryota
+722d6e91-fe67-4929-bb26-a08f3dc9aaaa	96.970	Danio rerio	Eukaryota
+729c253e-5619-4616-9331-def666f88c09	82.443	Centruroides sculpturatus	Eukaryota
+72ac5370-028b-40bb-a78a-f4d6c1e69ad4	100.000	Ceratina calcarata	Eukaryota
+72e34fc7-6d11-46a3-8d4a-76ecb1e05c91	84.087	Gromphadorhina laevigata	Eukaryota
+72e39d1e-5be7-45db-9147-f74995b50fc8	90.000	Gryllus bimaculatus	Eukaryota
+730d8eff-699b-4473-870c-83979193bb7b	100.000	Polistes canadensis	Eukaryota
+736abfc3-6ec4-47d5-811b-7ca1e3dad0ff	79.237	Diploptera punctata	Eukaryota
+739937df-25e8-4abb-93a6-7324d27d8ed7	85.596	Panesthia cribrata	Eukaryota
+73efca78-aa99-4792-aed2-d867bc7dc65c	92.135	Panesthia ancaudellioides	Eukaryota
+74878d75-617c-4a5c-ab51-67c712ff0b3e	72.141	Diploptera punctata	Eukaryota
+7571bf0b-b9af-4b6e-b7d2-c855bb086a03	79.207	Blattabacterium cuenoti BPAA	Bacteria
+764ba38b-1805-48f4-be58-016f7c98364b	74.930	Diploptera punctata	Eukaryota
+766c2c26-b115-469f-8cf7-b0ceeddb5c1f	78.581	Opisthoplatia orientalis	Eukaryota
+76d5b394-c5ec-414b-bd89-aadf7f565fea	81.452	Chloronia mirifica	Eukaryota
+76e647f1-681a-4866-8e9c-2648f2ca415a	93.023	Humbertiella nada	Eukaryota
+780e50e5-88a3-45a2-aa5c-2f12fd990e22	79.711	Gromphadorhina laevigata	Eukaryota
+788c8f63-85d5-49f0-8f3f-5d2d6a6e9f85	83.146	Conotrachelus nenuphar	Eukaryota
+79c2516a-33b3-493a-869f-2ccec80c0ca0	100.000	Lactococcus lactis subsp. cremoris SK11	Bacteria
+7b4a0733-1127-497d-a6ac-be79bff87a73	84.705	Panesthia cribrata	Eukaryota
+7b53a6b5-0019-4233-b40d-41c7043eb7b5	88.764	Blattella germanica	Eukaryota
+7b7a7a12-b56a-4e61-985b-7dda22960668	97.059	Cucumis melo	Eukaryota
+7b808e2c-f415-4598-980c-4db4fdf6392f	73.444	Opisthoplatia orientalis	Eukaryota
+7bdf2eab-5f5f-492c-940c-15d522314227	100.000	Mustela itatsi	Eukaryota
+7c1fed07-9cc7-45fa-b3eb-e3508c493840	83.141	Gromphadorhina laevigata	Eukaryota
+7c2cefd8-a1c6-4b4d-b6b2-0a37a78ac50c	73.529	Diploptera punctata	Eukaryota
+7c99fef4-2e52-4850-933d-541efc47465c	70.685	Blattella germanica	Eukaryota
+7ca17bab-4ce1-4543-8e71-b1d7b673e6d1	92.188	Loensia conspersa	Eukaryota
+7d984dc4-50cf-413b-9948-3f41affb5334	83.529	Symploce pallens	Eukaryota
+7df245a2-8dcc-4a38-9af9-77649c878c27	73.585	Diploptera punctata	Eukaryota
+7f1d90fe-5228-4532-a3d1-69c58686a989	75.904	Diploptera punctata	Eukaryota
+7fc7c075-3d43-4886-86f6-914188538518	79.894	Drosophila kepulauana	Eukaryota
+8145fb94-e19d-4b7c-905d-ca122c38ea96	73.518	Diploptera punctata	Eukaryota
+81ad4d4c-69af-4b69-a377-317a63153a85	100.000	Drosophila busckii	Eukaryota
+8279540a-6e88-4583-be17-8a248786557b	87.778	Geoscapheus crenulatus	Eukaryota
+835a845f-2cc1-4c47-ada1-1e52290e1dce	73.193	Diploptera punctata	Eukaryota
+83654b6b-f9e9-4f28-bc45-96cd6c459e34	74.423	Opisthoplatia orientalis	Eukaryota
+83a58bd3-8226-4617-9d10-18879057e4b2	74.042	Hierodulella sp. JZ-2017	Eukaryota
+83bbdb4a-a892-4b44-9aaf-02af82828c3b	100.000	Cryptotermes secundus	Eukaryota
+83e6a9bd-55c9-4873-a297-ca00d587178f	97.059	Danio rerio	Eukaryota
+840982dd-58b3-4905-ba51-83710394dbb1	87.037	Pan troglodytes	Eukaryota
+873a60f6-c198-40a4-b6b7-c4f179836952	88.785	Zootermopsis nevadensis	Eukaryota
+878672c7-f44f-4ba6-ba57-36f2f47f55ee	88.506	Panesthia cribrata	Eukaryota
+87c33e2e-246a-4699-af5b-51ae19d9ad8d	91.463	Anopheles darlingi	Eukaryota
+88b31acc-c2a5-4335-9baf-1d532dd86845	89.394	Haania sp. JZ-2017	Eukaryota
+89dcb2ad-cdf7-457f-9138-953c0734a591	92.157	Melanaphis sacchari	Eukaryota
+89e1663f-47d0-4030-b439-5e22c0c2649e	93.182	Staphylinidae sp. BMNH 1274245	Eukaryota
+8bcdcb34-223d-405c-9acb-a90853ecc468	76.493	Cephalota circumdata	Eukaryota
+8c48d622-27ac-4173-96bf-ce2430e65b6b	74.198	Diploptera punctata	Eukaryota
+8c6e6447-777e-4d18-aa06-9c09c839830c	100.000	Metacrangonyx goulmimensis	Eukaryota
+8ce41901-3a61-481a-a23d-69e68afb4310	76.331	Diploptera punctata	Eukaryota
+8ced09d0-a326-4649-8220-2226beff326c	76.889	Polistes dominula	Eukaryota
+8d527e50-9340-446a-b401-d97b64836d7f	75.799	Diploptera punctata	Eukaryota
+8dd43f2f-d56e-479c-bd1e-ccf7323947ab	89.041	Thitarodes sp. XK-2016	Eukaryota
+8dd853ca-5fdc-4a91-9389-efada585dbbe	100.000	Apteryx australis mantelli	Eukaryota
+8df44c4e-ab21-4952-8039-53df766fa6d0	94.595	Plasmodium falciparum	Eukaryota
+8e42f047-5c0f-41c9-8343-b1adaea1f82f	81.081	Periplaneta fuliginosa	Eukaryota
+8e807697-8f61-452a-ab7e-1f0f7c3bf8d1	94.891	Panesthia cribrata	Eukaryota
+8efa9b9e-f738-48e8-85e5-5df3917c4113	79.439	Dicrocoelium dendriticum	Eukaryota
+8f178e76-cdfb-4808-9268-376c2718440f	83.333	Bullanga florida	Eukaryota
+8f4e9c55-7b24-4c15-bb7a-af0fb89d9446	95.082	Oxycanus goldfinchi	Eukaryota
+8f72bbe2-343c-4b2e-a74b-c40229aff8ec	93.548	Panesthia tryoni tryoni	Eukaryota
+9005b372-02be-4cfc-af53-d2a7ffed8161	89.583	Cryptotermes secundus	Eukaryota
+904edef1-03a9-4aca-90be-9d6de7ff1a19	86.842	Phoetalia pallida	Eukaryota
+908aa26c-0260-483a-87de-f8539b3e7e07	86.667	Clania variegata	Eukaryota
+90a9a7f4-58fa-4139-99a5-2d6aa777b42a	83.471	Diploptera punctata	Eukaryota
+91111b8d-973e-4baa-9ed8-0559443714e9	100.000	Cryptotermes secundus	Eukaryota
+916e40ff-71e6-4235-b2ad-a919491343a0	76.849	Diploptera punctata	Eukaryota
+91c9edf4-fed3-4c01-aaa2-8c61e8b70509	77.155	Cryptotermes secundus	Eukaryota
+91f67bbe-c675-431f-a1e9-8aad6da17825	86.747	Reticulitermes lucifugus lucifugus	Eukaryota
+9298d3e9-0109-493d-b4f7-44bbd2927bd9	85.333	Panesthia australis	Eukaryota
+92f5fc06-1ef1-4970-afb8-8f95565a81ab	81.606	Panesthia cribrata	Eukaryota
+936aebd2-990d-453b-8638-396e32c8f161	88.235	Spiroplasma kunkelii CR2-3x	Bacteria
+939b2722-6898-4a29-9e70-93dd4a00c632	92.414	Panesthia cribrata	Eukaryota
+94adb31b-b0f9-42f8-8864-3cb2b0d02b19	74.656	Blattella germanica	Eukaryota
+94cb73da-9251-4b49-ab72-d9a17f51625f	100.000	Danio rerio	Eukaryota
+94ec4f50-c78d-412e-9c5e-f990dc35f787	89.535	Chelonibia patula	Eukaryota
+94ee56e3-83fd-4e5e-93e3-b6964827fe3d	93.478	Panesthia cribrata	Eukaryota
+94fc20b9-b12c-4ed4-be87-dc9cab6e9f2d	75.406	Diploptera punctata	Eukaryota
+95554229-acf1-4216-bbc8-d025d4daded6	83.357	Blattabacterium cuenoti BPAA	Bacteria
+95f20001-d8d8-4e23-943f-0b39372d7b7d	90.909	Cryptotermes secundus	Eukaryota
+96172f60-2905-4c35-9e26-7539c389eb04	90.349	Blattabacterium cuenoti BPAY	Bacteria
+9657ef58-5f63-4c63-afae-5b6d019871d8	77.922	Lycus dentipes	Eukaryota
+97de3964-6a89-444b-b5d6-ca11f7c6ffb0	87.037	Danio rerio	Eukaryota
+98aba0cc-2bea-4eec-aef1-999b20a0ef00	75.983	Opisthoplatia orientalis	Eukaryota
+9a0073c2-2949-47b4-b0f4-83ce9ad5452d	90.909	Panesthia angustipennis yayeyamensis	Eukaryota
+9a27dcba-a040-4d8c-befa-2967f587f99d	91.589	Panesthia cribrata	Eukaryota
+9ae20993-084f-4894-930f-82464e88ac22	95.122	Carnus hemapterus	Eukaryota
+9b9c9cb8-81b5-4b55-b0e0-c3ac6401d9dd	97.143	Cottoperca gobio	Eukaryota
+9bf238c5-e7d0-4234-9ecd-901418f3af15	93.750	Panesthia cribrata	Eukaryota
+9cc7abbd-94fa-465c-a449-de945d6054db	79.817	Diploptera punctata	Eukaryota
+9d565061-4109-4a85-b4fe-56d946b40ed1	75.073	Diploptera punctata	Eukaryota
+9ddb8952-a173-4e7f-981c-c42131790877	78.804	Gromphadorhina portentosa	Eukaryota
+9e16089f-38a5-44f2-bf4b-6d48ae7e3f48	84.927	Centruroides sculpturatus	Eukaryota
+9ea46273-55f8-4350-a822-b1d6d818a27e	88.372	Agrilus planipennis	Eukaryota
+9f34a4ce-c3cf-42b8-a0d1-0d140216f663	86.905	Zootermopsis nevadensis	Eukaryota
+a0654bbb-e33e-429f-a183-66b2fac26745	73.381	Diploptera punctata	Eukaryota
+a0667312-ccf2-45a5-a003-81d8a9ebab2e	84.956	Ceratitis capitata	Eukaryota
+a0c11fd4-a339-4d49-a232-cd9a09ad15e4	83.065	Reticulitermes lucifugus lucifugus	Eukaryota
+a0e851f2-f001-415d-8ee3-5a3413143db8	82.432	Macrotermes michaelseni	Eukaryota
+a1c415e8-80f4-44d0-81ed-afcdbc48c374	93.407	Zeugodacus scutellatus	Eukaryota
+a1e7ff2b-a890-4788-9cdb-69fa0bf9733c	89.831	Sorex coronatus	Eukaryota
+a3a07126-6c60-4c65-83a2-7e7d5bdd0534	100.000	Kinosternon flavescens	Eukaryota
+a3d158c4-16d3-4fb0-a392-ed1acc3266fd	74.805	Diploptera punctata	Eukaryota
+a45b4163-02c4-41cb-9a69-9b68e0477537	100.000	Danio rerio	Eukaryota
+a5443486-eea8-4623-9f7d-626be10bf40d	81.818	Mahasena oolona	Eukaryota
+a6dae0d4-f6a9-4d6d-8abd-a69aef00b28d	84.058	Cylindrotoma sp. ZK-2016	Eukaryota
+a6e00f43-68e6-4ba1-8b88-0a978df3fe30	73.362	Diploptera punctata	Eukaryota
+a769cdb4-8535-47b4-8cae-89523942ee8b	100.000	Melanaphis sacchari	Eukaryota
+a779e3d4-dfe8-4983-9caf-f75142ebaf3c	82.530	Anisochrysa carnea	Eukaryota
+a7ccbdfd-8a5b-464f-a8c6-1acacc758299	100.000	Cryptotermes secundus	Eukaryota
+a7f651e3-8e43-4c9c-9c8d-9f35f78eb44c	88.889	Cryptotermes secundus	Eukaryota
+a8987eae-2d60-49c2-8dc7-e75eea0c44ef	73.613	Blattodea sp. MT-2014	Eukaryota
+a8a355b4-a404-4005-94fe-2fbd8c6a13f7	73.394	Diploptera punctata	Eukaryota
+aafd4812-bacd-47e4-a74e-a53ad044595f	90.541	Diploptera punctata	Eukaryota
+ab5c6f94-fe12-4b23-a125-3e693f0b087b	82.935	Panesthia sp. 2 FL-2017	Eukaryota
+ab8c4e8e-c218-417d-854b-4ff3bee36342	88.889	Diploptera punctata	Eukaryota
+abfee5cc-553c-422f-9dbd-6dd901fee88a	97.222	Cyprinus carpio	Eukaryota
+ac03b1b9-d0e5-4ad0-b325-0892c28cca3e	82.447	Tonkinacris sinensis	Eukaryota
+ac2aadb4-fd11-4fbb-99c5-c9b9357658a6	97.500	Staphylinidae sp. BMNH 1274245	Eukaryota
+ac64d607-bf43-4e56-88e8-ab8e6050ee45	77.376	Blattella germanica	Eukaryota
+acc91560-05dd-4ba2-ad21-6f80ad23130b	72.727	Nevrorthus apatelios	Eukaryota
+ad353fa8-aa80-4bc3-8b5f-092c7f4ae2d3	73.829	Diploptera punctata	Eukaryota
+ad3e2291-bb59-44f2-a63e-f44febd53069	84.600	Acyrthosiphon pisum	Eukaryota
+ad4a9bd7-170a-4d74-bad0-68aa0ab457e2	90.476	Agrilus planipennis	Eukaryota
+ad999e1f-25f3-4ca1-b232-e634ef7b523a	81.507	Diploptera punctata	Eukaryota
+adbb92f7-4da2-4211-ac09-6f4a3bb03335	91.892	Panesthia cribrata	Eukaryota
+ae1b8641-d04f-4fea-9a89-99f681758a46	87.640	Sphaeriusidae sp. BMNH 703456	Eukaryota
+ae838185-72d8-4f35-b80e-78418b8bd44a	85.593	Cryptotermes secundus	Eukaryota
+aec81261-4a2a-43ec-9549-ed854c411c39	93.333	Periplaneta brunnea	Eukaryota
+af0e32a4-6a62-44fb-9639-4e8c49e81b9e	87.970	Panesthia matthewsi	Eukaryota
+af55358f-12a5-4045-b07f-c6bd9bf5b0c4	83.465	Rhopalosiphum maidis	Eukaryota
+b057c52e-1b09-43e7-ae0c-afb2fc0eae90	85.926	Gromphadorhina laevigata	Eukaryota
+b0b08dd9-5283-4ef4-bb5b-214d2b759230	82.506	Parasteatoda tepidariorum	Eukaryota
+b0f2e599-6440-4914-b5dc-45a5c3d00aae	87.273	Culicoides sonorensis	Eukaryota
+b18034d1-bccd-4bd5-8a2d-8b219de49e3b	97.143	Vigna angularis var. angularis	Eukaryota
+b2138c5f-706a-4081-bee8-a7d395de812a	77.838	Conocephalus maculatus	Eukaryota
+b2284dd7-16ce-4d03-8ce8-f56444cb7d2b	83.735	Panesthia australis	Eukaryota
+b26edc98-c53f-4d07-9b03-a39d3198a5e0	81.510	Gromphadorhina laevigata	Eukaryota
+b2c7b7e4-1abe-45da-98c8-45edca77890e	83.966	Panesthia cribrata	Eukaryota
+b33e3e8d-cace-4a07-b445-1482433dca35	100.000	Mus musculus	Eukaryota
+b3f66629-4487-4a8c-9d87-74fe7b289831	84.699	Aedes aegypti	Eukaryota
+b41be527-b89d-4893-8828-a2a5d0df3479	97.143	Poecilia reticulata	Eukaryota
+b4d725b1-abb6-4f9c-8c4d-bb317dc21eed	100.000	Vitis vinifera	Eukaryota
+b4eb911c-c4c4-4af0-a5b2-8e01f2ed21da	77.246	Drosophila sechellia	Eukaryota
+b5079e17-c74b-4839-9cbb-606745f4be9c	83.599	Centruroides sculpturatus	Eukaryota
+b525102f-565e-43a7-9769-3763170fc589	84.553	Anostirus castaneus	Eukaryota
+b54a5bc5-4887-456c-81d9-351bd767d3b6	74.419	Diploptera punctata	Eukaryota
+b5a995f0-b303-4f8b-a650-43768a221a50	80.896	Blattidae sp. BYU_ACBL003	Eukaryota
+b5aeec09-f076-401f-b413-bd35bac0273b	92.683	Metrioptera ussuriana	Eukaryota
+b65b0d88-fe7e-4968-bfd1-19c07a96a1f4	85.507	Staphylinidae sp. BMNH 1274173	Eukaryota
+b66103e4-6a24-48a2-b1c8-564937a93cea	79.167	Timema cristinae	Eukaryota
+b6e1462b-d2cf-4b22-8bbc-e4f819873c28	82.075	Zootermopsis nevadensis	Eukaryota
+b79e27b1-6240-417d-a651-ba5c4f9c2260	79.235	Diploptera punctata	Eukaryota
+b7a670ab-3215-4455-b503-03f99f0f95e8	82.609	Ducetia sp. NS-2016	Eukaryota
+b81501a3-5efc-4aaf-b2f5-e6b82553245c	89.831	Mycalesis mineus	Eukaryota
+b83c2e4e-2101-46b8-9df8-2dbaf769688f	90.323	Panesthia cribrata	Eukaryota
+b8679963-addc-481d-bed1-64ff2e3d78a2	84.351	Harmonia axyridis	Eukaryota
+b8d5b959-bc8d-487d-9c21-ae583dad2889	91.393	Blattabacterium cuenoti BPAA	Bacteria
+b8d6e4b0-9277-420f-a05c-cb568574131d	89.091	Limnius perrisi	Eukaryota
+b8f2e15a-8ec2-4d0f-b858-0a16e5b77ddd	76.435	Diploptera punctata	Eukaryota
+b8f4706e-65da-416a-bb4f-20978b6cd081	92.982	Periplaneta australasiae	Eukaryota
+b921d438-2a3c-4649-aed1-88a634602476	88.462	Hevaheva sp. 366C02	Eukaryota
+ba5d85f9-e39c-4790-b2d3-df89ad0b364f	86.566	Centruroides sculpturatus	Eukaryota
+bb04e37d-f0ad-4133-b0a5-a9de52c6fc0f	88.235	Periplaneta australasiae	Eukaryota
+bb3bc2cf-0127-44fc-8555-9556652d3352	75.225	Traulia nigritibialis	Eukaryota
+bb956987-875c-4ecd-bdc2-c704af8361e9	74.729	Diploptera punctata	Eukaryota
+bc01cf36-2a49-4270-a26b-e26d38198ea8	85.366	Diploptera punctata	Eukaryota
+bc19e321-06da-435b-8cb4-78b9638bf090	78.353	Opisthoplatia orientalis	Eukaryota
+bcf6db1d-ee3d-46ff-950e-edd7f75a41b9	73.418	Diploptera punctata	Eukaryota
+bd1f9c65-7c18-469a-8c1f-2c25e72df3a6	100.000	Cryptotermes secundus	Eukaryota
+bde588e2-7603-4cfe-a245-ac871da00463	85.714	Zootermopsis nevadensis	Eukaryota
+bdf6f017-b9f0-4175-81c3-6fca7c23e101	83.916	Panesthia cribrata	Eukaryota
+bdff5953-ddfc-4723-b5eb-6f2101f13bb8	82.180	Centruroides sculpturatus	Eukaryota
+be32f340-ecc2-431b-a9c3-a7758bf9a39a	89.394	Macropanesthia saxicola	Eukaryota
+becf7ce3-4bf3-4bc5-b812-553cdd23e824	76.471	Stigmella roborella	Eukaryota
+bee67204-b8bd-4114-ac2d-8d31f07aab51	92.683	Decma fissa	Eukaryota
+bfe7b8f6-4890-42d1-a4c9-c3a47214d542	100.000	Siganus fuscescens	Eukaryota
+bff3330b-9ce3-47c5-a0ed-346c8b8c3680	81.289	Gromphadorhina laevigata	Eukaryota
+c0ac136c-b1a2-4f3e-8422-75408d49542f	80.769	Cryptotermes secundus	Eukaryota
+c0de26a5-9cf6-4326-9e78-40cf989ab02f	78.030	Panchlora nivea	Eukaryota
+c19641c7-0e2b-4ff3-99fa-0498d248bbe7	74.678	Diploptera punctata	Eukaryota
+c325f170-9067-424b-a1e1-30f84c94ba63	75.359	Diploptera punctata	Eukaryota
+c3500d7d-4aca-42df-8d5d-aa9d47bcac3a	88.235	Gallus gallus	Eukaryota
+c3aa2903-0638-44b9-bd2f-36025de4ec5f	89.130	Agonita chinensis	Eukaryota
+c3fe7925-ad86-4f2b-a5f2-cfcfb23f4c40	94.561	Blattabacterium cuenoti BPAY	Bacteria
+c41158ca-32d8-4b5a-b182-c51128ca9beb	85.075	Anopheles cruzii	Eukaryota
+c4741639-8894-4c8f-99b5-02405ac936b7	97.143	Mus musculus	Eukaryota
+c4989cc1-0cb6-413e-b8b3-0f0ea0e0e653	83.079	Gromphadorhina laevigata	Eukaryota
+c4a5fee7-69f9-4ac1-9027-faa3d5c5c839	91.739	Panesthia australis	Eukaryota
+c5aab5ba-c45a-4acd-a241-74568cabca38	81.633	Diploptera punctata	Eukaryota
+c5de36e2-fda4-44b1-bcf4-0b18da96689d	86.974	Centruroides sculpturatus	Eukaryota
+c628059b-aadb-410a-b9c2-49ad4e2a2882	83.898	Cryptotermes secundus	Eukaryota
+c6860419-6c01-4ef6-a20b-93c05f0c5f94	76.496	Blattella germanica	Eukaryota
+c6990faf-09f0-477c-b39d-aaeeb4f6e3b2	78.125	Ceuthophilus cunicularis	Eukaryota
+c6a3b852-209f-477a-82ea-70cc1d58ad9b	79.821	Blattabacterium cuenoti BPAY	Bacteria
+c6c7af39-5735-42a9-aeb7-f1c5adccca42	82.828	Orophyllus montanus	Eukaryota
+c6d8349b-4d90-42f4-bc42-d486eca06ae5	96.970	Cryptotermes secundus	Eukaryota
+c79ecf9a-b596-4e87-8cb0-7b4a9279e9c0	76.972	Panchlora nivea	Eukaryota
+c7f31742-9d81-42f2-bd2f-dd615c86b90c	82.609	Locusta migratoria	Eukaryota
+c8a547cb-74fa-4b7d-9fc7-5f211bd4a2fd	80.556	Diploptera punctata	Eukaryota
+c9775cff-9cd5-4c1d-adae-d719b562394b	78.247	Diploptera punctata	Eukaryota
+c9f6c585-f38f-4eb2-b736-60055d0d1990	90.000	Oryza sativa Japonica Group	Eukaryota
+ca76702c-e48d-4f37-9d20-d9d0aa5d4f39	74.318	Diploptera punctata	Eukaryota
+ca83780e-8426-4ad8-8463-a1c1d6aa3fe8	80.970	Henschoutedenia flexivitta	Eukaryota
+cb3b33a7-9fd8-4e39-97e4-987420b666ef	91.154	Blattabacterium cuenoti BPAY	Bacteria
+cb91c013-2ed5-4d7c-bfbb-e02d3c747b20	83.088	Diploptera punctata	Eukaryota
+cc61bf72-4e6c-4a3f-b943-1a81f1bdda97	79.264	Zootermopsis nevadensis	Eukaryota
+cca3e166-f5b3-4f52-914f-2d3933c1e88e	97.674	Astegopteryx styracophila	Eukaryota
+cdf829e0-622a-4d4d-ae3c-22e595646de0	82.447	Panesthia cribrata	Eukaryota
+ce0cf3f7-cbf9-48a2-95bf-10a21a408b47	97.059	Monomorium pharaonis	Eukaryota
+cea892e0-06a1-47bc-b20a-f660cca5e1f2	100.000	Larimichthys crocea	Eukaryota
+cee961c1-532b-45a0-b55d-a0511c83b152	100.000	Methanocaldococcus sp. FS406-22	Archaea
+cfa43204-bce0-4922-b6b2-40db7afebe13	83.478	Periplaneta australasiae	Eukaryota
+cfac411d-e53c-4781-a06a-e7e025284a58	87.500	Ommatolampis quadrimaculata	Eukaryota
+cfc3f92a-371b-4d5d-b3bc-6c98209b5140	90.909	Anopheles pseudotibiamaculatus	Eukaryota
+d0b5ab4a-e800-47e3-aa3f-59ad1d92d3cf	86.150	Panesthia cribrata	Eukaryota
+d1187240-9eab-4bf2-bd88-279d21b05b36	81.657	Centruroides sculpturatus	Eukaryota
+d12e3e04-c555-4b10-bfd9-0c91cdd3e781	97.561	Cryptotermes secundus	Eukaryota
+d1edfed3-2681-4505-a222-731bae30a0c1	97.297	Fontecilla graphicus	Eukaryota
+d2a0bd32-eb17-432c-bc6f-509aaf0651dd	92.000	Sipha flava	Eukaryota
+d2c10963-8a65-465b-b01b-fd5aa7a45efd	88.679	Cryptotermes secundus	Eukaryota
+d3011d59-cb71-4e44-b502-7beb6a48819d	93.333	Henicus brevimucronatus	Eukaryota
+d3e8473c-6cab-4e55-be2f-c61a583c24ff	86.103	Gromphadorhina laevigata	Eukaryota
+d3f6ff41-084d-4d5e-a327-b7f5f86e3454	78.049	Agrilus planipennis	Eukaryota
+d5013ce4-d8cb-46d6-8208-bbc2391dd9a8	100.000	Melanaphis sacchari	Eukaryota
+d5419125-8bfd-4e6f-88f0-f387d948273f	82.432	Macrotermes michaelseni	Eukaryota
+d57e49be-93e1-41dc-ab3d-b8b2985f8a6f	86.264	Harmonia axyridis	Eukaryota
+d58a96ec-dfe1-428a-99cc-4421e283f4c1	97.143	Lotus japonicus	Eukaryota
+d5ce2657-10ab-4308-854b-37cf9e08f446	89.189	Stigmella roborella	Eukaryota
+d6e16c4e-044a-4905-9043-15564e17b38b	74.219	Diploptera punctata	Eukaryota
+d8126c91-fbb5-4121-87a0-6478e16155f4	100.000	Arabidopsis thaliana	Eukaryota
+d8c1de42-fe1a-421b-ba5a-3ac43b114b61	83.058	Opisthoplatia orientalis	Eukaryota
+db5cda29-7111-4fc3-ae47-a0ed7836f57f	91.042	Anoplophora glabripennis	Eukaryota
+dbc74089-8dbb-4789-86fd-a2c5679ff7d4	90.909	Solanum pennellii	Eukaryota
+dbc7a5ce-ba50-4660-a8ba-ee64048e8a94	88.571	Zootermopsis nevadensis	Eukaryota
+dbd67383-6178-4ddc-b11f-b602b4e73353	100.000	Paratemnopteryx couloniana	Eukaryota
+dc309c0b-d14d-44f9-bb40-521cb5322bba	72.655	Opisthoplatia orientalis	Eukaryota
+dc527fdb-b4fc-46c5-807d-17a8bedbaa03	87.500	Nanorana parkeri	Eukaryota
+dcc210b3-57fc-4f13-8f43-31ae01dca25a	97.222	Plasmodium yoelii killicki	Eukaryota
+dcd07eb7-8fa4-45c4-807a-102844c624cb	100.000	Cryptotermes secundus	Eukaryota
+dd36e52c-9537-44a4-a8a6-6d7bcf89e719	88.679	Danio rerio	Eukaryota
+ddff4227-2aa7-4fac-98e6-e132a5426c44	85.755	Blattabacterium cuenoti BPAA	Bacteria
+de1716c0-4b9b-4323-a4be-73cdf3d3c5d6	77.931	Kunugia undans	Eukaryota
+de17f1a4-d37b-42c3-9d98-1ed6fdced693	97.143	Melanaphis sacchari	Eukaryota
+debf97d7-972b-49d6-a18b-763d7dd6caf8	80.000	Hippocampus comes	Eukaryota
+dede737c-846e-4748-a7b8-44ea50f075eb	88.971	Panesthia australis	Eukaryota
+df1553db-abc1-405a-b4a4-a665f8800492	97.059	Cyprinus carpio	Eukaryota
+e006ec86-6196-4669-a20e-39fc450aefc0	96.721	Panesthia angustipennis angustipennis	Eukaryota
+e0375eb5-2c27-48f7-95d0-31c41a49f702	92.233	Heterosmylus sp. YW-2016	Eukaryota
+e051dfac-35f3-4b24-b69e-a2f029360fde	88.832	Panesthia cribrata	Eukaryota
+e0d15fac-ae6c-4333-a951-b99fbf3bb5d6	80.836	Heteropternis couloniana	Eukaryota
+e147b3f2-323a-4be1-9de9-a6e9312edbc0	83.357	Centruroides sculpturatus	Eukaryota
+e1532c0c-1cc9-4747-a311-497b1806671f	89.855	Euphaea ornata	Eukaryota
+e431cb04-5ca5-4f61-b341-eea6cc117fdd	82.558	Zootermopsis nevadensis	Eukaryota
+e464be19-efb3-463e-a737-62740dea4a17	86.721	Panesthia cribrata	Eukaryota
+e49fb266-81c6-44a3-b49b-e6948ee6d6ca	89.474	Panesthia australis	Eukaryota
+e4dba0f0-032b-4ff5-8b97-0d1743a9a63a	100.000	Homo sapiens	Eukaryota
+e512243e-974b-40f1-92ab-b9e36e69dc5e	88.177	Panesthia cribrata	Eukaryota
+e557467f-ae4a-40c6-8042-e1dcc9541a82	74.708	Opisthoplatia orientalis	Eukaryota
+e5a28563-71ae-4f4b-af46-cfb1d24b75ee	91.379	Panesthia australis	Eukaryota
+e5b618c2-ee5f-4ff2-9464-89b7e3c9ddcb	86.452	Opisthoplatia orientalis	Eukaryota
+e5d8b7e5-f83c-486a-8586-5d3ca518d770	94.545	Inquilinitermes sp. BRA002	Eukaryota
+e6086bf2-ced7-4875-9f7a-502ec302791a	81.548	Panesthia angustipennis angustipennis	Eukaryota
+e6240d78-3e44-4ea1-9fdc-cafebd1443bc	75.895	Diploptera punctata	Eukaryota
+e6ae522e-1580-49df-a02b-fc4c95121405	88.889	Panesthia tryoni tryoni	Eukaryota
+e6d25bf3-b755-4cce-b53c-3902ac3c2f6b	84.093	Centruroides sculpturatus	Eukaryota
+e7c38325-8b84-4eba-b06d-9c5ac72f162c	85.106	Panesthia ancaudellioides	Eukaryota
+e85a4bef-463d-4ace-bce3-3d117eeb03c1	91.071	Panesthia cribrata	Eukaryota
+e8a3cebe-33b0-4d84-8863-967ad7901b84	94.286	Ascoidea rubescens DSM 1968	Eukaryota
+e9be6a6c-a1ac-46a5-9cb7-4cfd33d2565e	81.967	Centruroides sculpturatus	Eukaryota
+ea1bc03b-177d-44a2-8179-bb64df3d0ed9	100.000	Cryptotermes secundus	Eukaryota
+eab7b9cf-1b88-4efd-82f6-cdc29d0101fa	97.297	Lates calcarifer	Eukaryota
+eb351b0b-3647-4c48-8d10-11b51480a10d	97.368	Caliris sp. JZ-2017	Eukaryota
+eb386369-b4a2-4d31-9cc2-e8df3d679097	74.781	Diploptera punctata	Eukaryota
+eb3f4bc0-6849-40e0-ba6f-2928046ae7c1	77.049	Diploptera punctata	Eukaryota
+eb4d48c1-d30e-48d2-b37a-45c42a404a0b	73.286	Neotermes insularis	Eukaryota
+eb4d7c1f-6bf1-4547-9204-3faed8520d7e	86.099	Blattabacterium cuenoti BPAA	Bacteria
+ebd22c21-d3b3-42e1-92f3-3ce11b389c12	92.754	Carbula sinica	Eukaryota
+ec09e9dc-9e1d-4dde-afd7-fbf30aab53d6	87.879	Drosophila asper	Eukaryota
+ec271b7e-fcdc-42cb-93d4-340f768576e2	77.551	Diploptera punctata	Eukaryota
+ec3bcfec-d6c5-49c4-8f4d-cd30cbed3475	81.081	Panesthia australis	Eukaryota
+ec6a2237-1dfe-48c1-b4ff-5ee202e665ed	77.064	Oxysarcodexia avuncula	Eukaryota
+ecc4c319-c06f-4fbd-a2e4-17da3eb9dcc6	82.292	Pyrrhocoris apterus	Eukaryota
+ecd00eb7-48bc-407a-86f7-cb9f6d5bff2c	86.239	Pauesia pini	Eukaryota
+ed5a92d9-e8d3-4cb6-ac97-e698b250748b	75.796	Diploptera punctata	Eukaryota
+eec1b9c8-83fd-4676-abad-aa353c062708	84.984	Panesthia cribrata	Eukaryota
+ef4c92b2-4511-419f-856c-183f88c70ecc	80.435	Periplaneta fuliginosa	Eukaryota
+efa71804-ba58-4dca-b1c1-1d643d070b4a	84.089	Panesthia cribrata	Eukaryota
+efae6079-aca6-4c45-8840-e618cfbf509d	89.067	Panesthia cribrata	Eukaryota
+efe790cb-1697-4e02-8682-1dbc3e96e826	74.222	Hemicrepidius sp. 1 TH-2014	Eukaryota
+f0b649b3-adac-443d-81a7-a4414e3277c5	71.629	Diploptera punctata	Eukaryota
+f1734712-f7b1-467c-abbe-783ddef0ce2b	82.743	Cryptotermes secundus	Eukaryota
+f2315a26-a3ae-473e-8509-7b1380a25be1	85.714	Panchlora nivea	Eukaryota
+f2455bd9-4ab1-4e32-9ba2-426941ccf8d8	73.973	Diploptera punctata	Eukaryota
+f2d10ab9-8c85-4b4e-8c7a-2f88624b3afa	76.826	Onthophagus taurus	Eukaryota
+f306282f-9b16-479e-a3a6-2632aa0d1e0e	91.071	Diploptera punctata	Eukaryota
+f330ec30-80b0-45e8-909f-45b4a23d5c84	84.690	Centruroides sculpturatus	Eukaryota
+f3d4eb30-737a-42c3-9720-fa5eaf2cd491	97.059	Theobroma cacao	Eukaryota
+f466a830-5144-41c5-9a25-6c94ce4f24f7	80.934	Centruroides sculpturatus	Eukaryota
+f4cb5628-1e47-42c3-aed6-08f18e28adec	92.453	Scolytinae sp. BMNH 1039990	Eukaryota
+f5e0b341-cbe5-4218-9c1c-a3b6a641ae7f	84.483	Cryptotermes secundus	Eukaryota
+f5f33c22-ae1e-4f89-b705-0b7c31c2b8cf	100.000	Blattella germanica	Eukaryota
+f618966d-b716-412f-a234-8e823fddbde7	80.165	Timema cristinae	Eukaryota
+f63adcf4-1308-40c1-a8b5-855d145fd6db	81.672	Acyrthosiphon pisum	Eukaryota
+f7d35b21-36e5-41a7-b364-7b27ffed5524	73.747	Diploptera punctata	Eukaryota
+f96935f7-1dce-47ce-8446-0ae1831e0974	97.059	Cryptotermes secundus	Eukaryota
+f976e963-112e-4d70-9a21-86656e985673	80.488	Diploptera punctata	Eukaryota
+fa91bb4f-6c6e-4a12-a974-039510586350	88.312	Corvus brachyrhynchos	Eukaryota
+fb74e045-d1e2-4e92-a8fc-898178441e41	86.957	Eospalax fontanierii cansus	Eukaryota
+fb80d4cb-2b24-410d-818c-d03550d0fbfe	93.220	Corvus brachyrhynchos	Eukaryota
+fb986ed8-f194-4301-84e7-7e3cb32720b5	81.622	Zootermopsis nevadensis	Eukaryota
+fbd74755-5553-44fa-9afe-6e555e2fb516	90.816	Panesthia australis	Eukaryota
+fc33dc26-cfc9-4204-9550-ca2b5435811f	75.394	Diploptera punctata	Eukaryota
+fca4160b-7889-469b-a34d-58d4335d682a	100.000	Bellamya aeruginosa	Eukaryota
+fcbd9d16-1c05-4d2b-bcb9-d9f8f0b78bb8	75.836	Diploptera punctata	Eukaryota
+fd9f971f-cd20-4653-b319-8d653e2f8fd2	88.333	Hirtitermes hirtiventris	Eukaryota
+fe7fc278-88fb-44cc-8855-2c228cb5fb32	97.222	Melanaphis sacchari	Eukaryota
+fe913af7-640f-4bcf-ad33-00fc55b6fc95	88.832	Panesthia ancaudellioides	Eukaryota
+fef7c07c-4924-40f9-a372-53847edadfa4	84.612	Blattabacterium cuenoti BPAY	Bacteria
