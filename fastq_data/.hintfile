@@ -1,0 +1,23 @@
+#introducing head, tail, grep, direction, redirection, same good grep flags e.g. -i, -w, -E and | or for grep.
+head tick_1.fastq
+tail tick_2.fastq
+grep 'NNNNN' tick_1.fastq
+grep -B1 -A2 'NNNNN' tick_2.fastq
+grep 'NNNNNN' tick_1.fastq | wc -l
+grep 'NNNNN' tick_1.fastq | wc -l
+grep 'NNNNN' *.fastq | wc -l
+grep -B1 -A2 'NNNNN' tick_1.fastq > bad_reads.fastq
+grep -B1 -A2 'NNNNN' tick_2.fastq >> bad_reads.fastq
+grep -B1 -A2 'NNNNN' tick_3.fastq >> bad_reads.fastq
+grep -B1 -A2 'NNNNN' tick_4.fastq >> bad_reads.fastq
+less bad_reads.fastq
+rm bad_reads.fastq
+grep 'Kevin' *.fastq
+grep -i 'Kevin' *.fastq
+grep -i 'Kevin' *.fastq | grep 'NNN'
+grep -i -E 'Megan|Kevin' *.fastq
+grep -i -E 'Megan|Kevin' *.fastq | grep 'rocks'
+grep -i -E 'Megan|Kevin' *.fastq | grep -i 'rocks'
+grep -i -E 'Megan|Jana' *.fastq | grep -i 'coolkid'
+grep -i 'rocks' *.fastq | grep -i -E 'Megan|Jana'
+grep -i 'GotAJob' *.fastq | grep -i -E 'Megan|Jana'
